@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\ControlDeVentas",
+    "\\ControlDeVentas\\ControlDeVentas"
   ],
-  "SelectedNode": "\\D:\\documentos\\UTN Adriel Coria Oficial\\Curso FullStack\\0 - Mi Proyectos\\Proyecto 03 - CONTROL VENTAS POO",
+  "SelectedNode": "\\ControlDeVentas\\ControlDeVentas.sln",
   "PreviewInSolutionExplorer": false
 }

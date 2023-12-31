@@ -1,0 +1,11 @@
+D:\documentos\UTN Adriel Coria Oficial\Curso FullStack\0 - Mi Proyectos\Proyecto 03 - CONTROL VENTAS POO\ControlDeVentas\ControlDeVentas\bin\Debug\ControlDeVentas.exe.config
+D:\documentos\UTN Adriel Coria Oficial\Curso FullStack\0 - Mi Proyectos\Proyecto 03 - CONTROL VENTAS POO\ControlDeVentas\ControlDeVentas\bin\Debug\ControlDeVentas.exe
+D:\documentos\UTN Adriel Coria Oficial\Curso FullStack\0 - Mi Proyectos\Proyecto 03 - CONTROL VENTAS POO\ControlDeVentas\ControlDeVentas\bin\Debug\ControlDeVentas.pdb
+D:\documentos\UTN Adriel Coria Oficial\Curso FullStack\0 - Mi Proyectos\Proyecto 03 - CONTROL VENTAS POO\ControlDeVentas\ControlDeVentas\obj\Debug\ControlDeVentas.csproj.AssemblyReference.cache
+D:\documentos\UTN Adriel Coria Oficial\Curso FullStack\0 - Mi Proyectos\Proyecto 03 - CONTROL VENTAS POO\ControlDeVentas\ControlDeVentas\obj\Debug\ControlDeVentas.csproj.SuggestedBindingRedirects.cache
+D:\documentos\UTN Adriel Coria Oficial\Curso FullStack\0 - Mi Proyectos\Proyecto 03 - CONTROL VENTAS POO\ControlDeVentas\ControlDeVentas\obj\Debug\ControlDeVentas.frmVentas.resources
+D:\documentos\UTN Adriel Coria Oficial\Curso FullStack\0 - Mi Proyectos\Proyecto 03 - CONTROL VENTAS POO\ControlDeVentas\ControlDeVentas\obj\Debug\ControlDeVentas.Properties.Resources.resources
+D:\documentos\UTN Adriel Coria Oficial\Curso FullStack\0 - Mi Proyectos\Proyecto 03 - CONTROL VENTAS POO\ControlDeVentas\ControlDeVentas\obj\Debug\ControlDeVentas.csproj.GenerateResource.cache
+D:\documentos\UTN Adriel Coria Oficial\Curso FullStack\0 - Mi Proyectos\Proyecto 03 - CONTROL VENTAS POO\ControlDeVentas\ControlDeVentas\obj\Debug\ControlDeVentas.csproj.CoreCompileInputs.cache
+D:\documentos\UTN Adriel Coria Oficial\Curso FullStack\0 - Mi Proyectos\Proyecto 03 - CONTROL VENTAS POO\ControlDeVentas\ControlDeVentas\obj\Debug\ControlDeVentas.exe
+D:\documentos\UTN Adriel Coria Oficial\Curso FullStack\0 - Mi Proyectos\Proyecto 03 - CONTROL VENTAS POO\ControlDeVentas\ControlDeVentas\obj\Debug\ControlDeVentas.pdb
